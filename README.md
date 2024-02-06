@@ -1,5 +1,6 @@
 # RC-Car_AVR-Atmega328p
 This is my RC Car project that has Circuit diagram, Port define, and program in C
+You can find all datas in the files that uploaded
 
 ##Materials
 1. Arduino with Atemega 328p
